@@ -1,0 +1,8 @@
+.container{
+  /* display: flex;
+   align-self: center; */
+   align-items: center;
+  width:1008px ;
+  margin-left: 20%;
+  align-items: center;
+} 
